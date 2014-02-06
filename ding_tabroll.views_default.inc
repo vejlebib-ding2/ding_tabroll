@@ -140,7 +140,7 @@ function ding_tabroll_views_default_views() {
   $handler->display->display_options['fields']['field_ding_tabroll_lead']['table'] = 'field_data_field_ding_tabroll_lead';
   $handler->display->display_options['fields']['field_ding_tabroll_lead']['field'] = 'field_ding_tabroll_lead';
   $handler->display->display_options['fields']['field_ding_tabroll_lead']['label'] = '';
-  $handler->display->display_options['fields']['field_ding_tabroll_lead']['element_type'] = 'p';
+  $handler->display->display_options['fields']['field_ding_tabroll_lead']['element_type'] = '0';
   $handler->display->display_options['fields']['field_ding_tabroll_lead']['element_label_colon'] = FALSE;
   $handler->display->display_options['fields']['field_ding_tabroll_lead']['element_default_classes'] = FALSE;
   /* Field: Content: Link */
